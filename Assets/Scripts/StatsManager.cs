@@ -8,6 +8,7 @@ public class StatsManager : MonoBehaviour
 
     [SerializeField] private int maxHealth;
     
+    
     [SerializeField] private int money;
 
     [SerializeField] private float speed;
